@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aditya Raj</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right"alt="coding"width="300"src="https://i.pinimg.com/originals/ef/2d/b0/ef2db0885d94fd149a4b7914923bb2a3.gif">
+<img align="right"alt="coding"width="200"src="https://i.pinimg.com/originals/ef/2d/b0/ef2db0885d94fd149a4b7914923bb2a3.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aditya-568&label=Profile%20views&color=0e75b6&style=flat" alt="aditya-568" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aditya-568" alt="aditya-568" /></a> </p>
